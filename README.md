@@ -1,16 +1,67 @@
-## Hi there 👋
+<div align="center">
+  <!-- يمكنك رفع صورة غلاف خاصة بك على جيت هاب ووضع الرابط الخاص بها هنا -->
+  <img src="https://via.placeholder.com/800x200/0d1117/FFFFFF/?text=Welcome+to+My+Profile" alt="Header" width="100%" />
+</div>
 
-<!--
-**mostafa11040/mostafa11040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I am Mostafa Ali</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mostafa11040&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <strong>🚀 Junior Mobile App Developer | Flutter | Android | Kotlin | Dart</strong>
+</p>
+
+## 🌟 About Me
+
+I'm a Junior Mobile App Developer specializing in both **Flutter** and Native **Android (Kotlin)** development. I'm passionate about building high-quality, scalable, and user-friendly mobile applications. I enjoy tackling complex problems, learning new technologies, and continuously improving my skills in software engineering and mobile architecture.
+
+## 📊 Connect with me
+
+<p>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/mostafa11040"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+## 🔥 Skills
+
+### 💻 Technical Skills
+
+*   🚀 **Languages:** 
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" /> 
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+*   📱 **Frameworks & Tools:** 
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> 
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" /> 
+*   🏗️ **Software Principles:** SOLID, Design Patterns, OOP
+*   🪛 **Version Control:** 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /> 
+
+### 🎯 Soft Skills
+
+*   Problem Solver & Critical Thinker
+*   Fast & Self-Learner
+*   Team Player & Strong Communicator
+
+## 🗂️ Featured Projects
+
+### 🔹 Maslahty
+An Android application built with Kotlin and Jetpack Compose. Features clean architecture, MVVM, and robust state management. 
+<br>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /> <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" />
+
+### 🔹 Meal Monkey
+A cross-platform food application built using Flutter and Dart, offering a seamless and responsive user experience.
+<br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
+
+## 📊 My Stats
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafa11040&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</p>
