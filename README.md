@@ -40,7 +40,7 @@ I'm a Junior Mobile App Developer specializing in both **Flutter** and Native **
 *   🏗️ **Software Principles:** SOLID, Design Patterns, OOP
 *   🪛 **Version Control:** 
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-    *   📦 **App Deployment:** 
+*   📦 **App Deployment:** 
     <img src="https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /> 
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" />
 
