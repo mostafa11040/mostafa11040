@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- يمكنك رفع صورة غلاف خاصة بك على جيت هاب ووضع الرابط الخاص بها هنا -->
-  <img src="https://via.placeholder.com/800x200/0d1117/FFFFFF/?text=Welcome+to+My+Profile" alt="Header" width="100%" />
+  <img src="https://github.com/user-attachments/assets/1b6f34d6-8fad-48ad-b408-e26c7c62d75c" alt="Header" width="100%" />
 </div>
 
 <h1 align="center">Hi 👋, I am Mostafa Ali</h1>
