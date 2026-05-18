@@ -19,8 +19,8 @@ I'm a Junior Mobile App Developer specializing in both **Flutter** and Native **
 ## 📊 Connect with me
 
 <p>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mostafaali201178@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/mostafaalihassan/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/mostafa11040"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
