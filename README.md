@@ -12,9 +12,7 @@
   <strong>🚀 Junior Mobile App Developer | Flutter | Android | Kotlin | Dart</strong>
 </p>
 
-## 🌟 About Me
 
-I'm a Junior Mobile App Developer specializing in both **Flutter** and Native **Android (Kotlin)** development. I'm passionate about building high-quality, scalable, and user-friendly mobile applications. I enjoy tackling complex problems, learning new technologies, and continuously improving my skills in software engineering and mobile architecture.
 
 ## 📊 Connect with me
 
