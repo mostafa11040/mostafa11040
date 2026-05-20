@@ -44,11 +44,7 @@ I'm a Junior Mobile App Developer specializing in both **Flutter** and Native **
     <img src="https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /> 
     <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" />
 
-### 🎯 Soft Skills
 
-*   Problem Solver & Critical Thinker
-*   Fast & Self-Learner
-*   Team Player & Strong Communicator
 
 ## 🗂️ Featured Projects
 
