@@ -26,7 +26,23 @@ I'm a Junior Mobile App Developer specializing in both **Flutter** and Native **
 
 ## 🔥 Skills
 
+### 💻 Technical Skills
 
+*   🚀 **Languages:** 
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" /> 
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" /> 
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" />
+*   📱 **Frameworks & Tools:** 
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" /> 
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" alt="Android" /> 
+    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" /> 
+*   🏗️ **Software Principles:** SOLID, Design Patterns, OOP
+*   🪛 **Version Control:** 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+*   📦 **App Deployment:** 
+    <img src="https://img.shields.io/badge/Play_Store-414141?style=flat&logo=google-play&logoColor=white" alt="Play Store" /> 
+    <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store" />
 
 
 ### 🎯 Soft Skills
