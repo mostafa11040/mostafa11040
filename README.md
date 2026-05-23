@@ -49,9 +49,7 @@ I'm a Junior Mobile App Developer specializing in both **Flutter** and Native **
 
 ### 🎯 Soft Skills
 
-*   Problem Solver & Critical Thinker
-*   Fast & Self-Learner
-*   Team Player & Strong Communicator
+
 
 
 ## 🗂️ Featured Projects
